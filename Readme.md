@@ -5,6 +5,8 @@ Eine 2D-Demo zur Veranschaulichung folgender Algorithmen zum Thema "Inverse Kine
 - Pseudoinverse Jacobimatrix
 - Forward and Backward Reaching Inverse Kinematics (FABRIK)
 
+**NOTE:** this Demo is not optimized!
+
 ![FABRIK](./img/FABRIK.png "Beispielbild des FABRIK")
 
 
